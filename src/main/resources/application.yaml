@@ -1,0 +1,22 @@
+server:
+  port: 9090
+
+spring:
+  jackson:
+    serialization:
+      indent_output: true
+
+logging:
+  level:
+    nl.energiejungle.valueimpact: DEBUG
+
+bag:
+  base-url: "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free"
+
+energielabel:
+  base-url: "https://api.overheid.io/v3/energielabels"
+  api-key: "MOCK"
+
+woz:
+  enabled: true
+  mock-value: 441000

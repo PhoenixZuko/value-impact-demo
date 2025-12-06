@@ -1,0 +1,34 @@
+### Build files ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+### Kotlin ###
+.kotlin/
+*.kt~
+*.kts~
+
+### Spring Boot ###
+target/
+
+### Logs ###
+*.log
+
+### System Files ###
+.DS_Store
+Thumbs.db
+
+### VS Code ###
+.vscode/
+
+### Cache / Temporary ###
+*.tmp
+*.temp
