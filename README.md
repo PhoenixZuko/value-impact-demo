@@ -55,7 +55,7 @@ This demo was generated using Spring Initializr:
 ## 🛠️ Installation & Running
 
 ### 1. Clone the project
-git clone <repo-url>
+git clone https://github.com/PhoenixZuko/value-impact-demo.git
 cd value-impact-demo
 
 ### 2. Run the application
