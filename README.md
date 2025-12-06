@@ -7,7 +7,7 @@ an estimated new value range based on the current energy label.
 ---
 
 ## 🧱 Project Architecture
-
+```text
 src/
 └── main/
 ├── kotlin/
